@@ -1,2 +1,4 @@
-# hackerrank
-This repository consists of some of the answers for the questions in HackerRank 
+# HackerRank
+This repository consists of answers for some of the questions I've solved in HackerRank.
+
+https://www.hackerrank.com/narathota
